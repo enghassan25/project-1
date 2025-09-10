@@ -4,7 +4,7 @@ body{
 }
 .body{
     position: relative;
-    background-color: white;
+    background-color: rgb(170, 7, 7);
     width: 800px;
     height: 1740px;
     margin-left: auto;
