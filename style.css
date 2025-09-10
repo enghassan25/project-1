@@ -4,7 +4,7 @@ body{
 }
 .body{
     position: relative;
-    background-color: rgb(170, 7, 7);
+    background-color:white;
     width: 800px;
     height: 1740px;
     margin-left: auto;
@@ -22,7 +22,7 @@ margin: 4% 5% 15px;
 }
 h1{
     position: relative;
-    color: #fff;
+    color: #2e2e2e;
     left: 5%;
     font-size: 40px;
     font-weight: 900;
