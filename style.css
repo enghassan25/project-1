@@ -6,7 +6,7 @@ body{
     position: relative;
     background-color: white;
     width: 800px;
-    height: 1800px;
+    height: 1740px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
@@ -168,4 +168,5 @@ hr{
     color: #854632;
     font-weight: bold;
     font-size: 20px;
+
 }
